@@ -1,0 +1,32 @@
+# Bỏ qua môi trường ảo (Virtual Environment)
+venv/
+env/
+
+# Bỏ qua các file cache và file biên dịch của Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Bỏ qua các cấu hình của Code Editor (VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Bỏ qua các file checkpoint của Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# BỎ QUA DỮ LIỆU (DATASETS)
+# Không đẩy các file dữ liệu thô hoặc đã xử lý lên GitHub
+source_code/data/*.csv
+source_code/data/*.json
+source_code/data/*.xlsx
+source_code/data/*.txt
+
+# BỎ QUA FILE MÔ HÌNH (MODELS)
+# Không đẩy các file trọng số mô hình đã train lên GitHub
+*.pkl
+*.h5
+*.pt
+*.pth
+*.bin
+source_code/models/
