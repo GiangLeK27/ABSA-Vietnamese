@@ -1,0 +1,16 @@
+# Thư viện xử lý dữ liệu cơ bản
+pandas
+numpy
+
+# Thư viện Học máy truyền thống (Baseline SVM, Naive Bayes)
+scikit-learn
+
+# Thư viện xử lý ngôn ngữ tự nhiên Tiếng Việt (Tách từ)
+pyvi
+
+# Thư viện Học sâu và làm việc với PhoBERT
+torch
+transformers
+
+# Thư viện xây dựng giao diện Web Demo
+streamlit
