@@ -1,1 +1,6 @@
+Google Drive chung của nhóm:
 https://drive.google.com/drive/folders/1UipxUBgBdLntS6DXqPrWuI8DTYeMaORo?usp=drive_link
+
+Link bộ dữ liệu gốc (VLSP 2018 ABSA):
+https://huggingface.co/datasets/visolex/VLSP2018-ABSA-Hotel
+https://huggingface.co/datasets/visolex/VLSP2018-ABSA-Restaurant
